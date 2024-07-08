@@ -1,4 +1,4 @@
-# PRODIGY_WD_01_Responsive-Landing-Page
+# Responsive-Landing-Page
 # Watch Vault
 
 ## Features
