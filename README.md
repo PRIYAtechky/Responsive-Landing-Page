@@ -14,16 +14,6 @@
 - **HTML:** For the structure of the web application.
 - **CSS:** For styling and layout.
 
-## Project Structure
-watch-vault/
-│
-├── index.html
-├── style.css
-├── img/
-│ ├── wh1.png
-│ ├── wh2.png
-│ ├── wh3.png
-
 ## Author
 
 Padmapriya Sravanaperumal
