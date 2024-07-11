@@ -16,4 +16,4 @@
 
 ## Author
 
-Padmapriya Sravanaperumal
+Padmapriya Saravanaperumal
