@@ -14,4 +14,7 @@
 - **📝 HTML:** For the structure of the web application.
 - **🎨 CSS:** For styling and layout.
 
+## ⚙️ Languages
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
 
