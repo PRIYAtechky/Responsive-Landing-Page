@@ -1,5 +1,6 @@
 # ⌚ Responsive-Landing-Page
-# Watch Vault <img src="https://cdn.dribbble.com/users/937082/screenshots/4671768/clock.gif"  width="60%" height="10%" >
+
+# Watch Vault
 
 ## 🌟 Features
 
