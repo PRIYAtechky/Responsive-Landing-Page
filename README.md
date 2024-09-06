@@ -2,7 +2,7 @@
 
 # Watch Vault
 
-## 🌟 Features
+## 🌟 Features <img align="right" width="250" src="https://static.vecteezy.com/system/resources/previews/006/541/488/non_2x/clock-icon-isolated-on-a-white-background-symbol-of-time-for-your-website-design-illustration-free-vector.jpg">
 
 1. **🔗 Responsive Navigation Bar:** Includes links to Home, Products, About Us, and Contact Us.
 2. **🛍️ Product Display:** Showcases three watch products with images and descriptions.
