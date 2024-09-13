@@ -10,12 +10,16 @@
 4. **📜 About Us Section:** Provides a detailed description of the significance and evolution of watches.
 5. **📞 Contact Information:** Displays essential contact details including phone number and email.
 
+## 🔗 Visit the Project
+
+[🔍 Check out the Web Page](https://priyatechky.neocities.org/Watch/)
+
 ## 💻 Technologies Used
 
 - **📝 HTML:** For the structure of the web application.
 - **🎨 CSS:** For styling and layout.
 
 ## ⚙️ Languages
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 
