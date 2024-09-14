@@ -12,7 +12,7 @@
 
 ## 🔗 Visit the Project
 
-[🔍 Check out the Web Page](https://priyatechky.neocities.org/Watch/)
+[🔍 https://priyatechky.neocities.org/Watch/](https://priyatechky.neocities.org/Watch/)
 
 ## 💻 Technologies Used
 
